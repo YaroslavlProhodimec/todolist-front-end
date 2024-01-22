@@ -9,7 +9,7 @@ const settings = {
     }
 }
 const axiosInstance = axios.create({
-    baseURL: "https://s ocial-network.samuraijs.com/api/1.1",
+    baseURL: "https://social-network.samuraijs.com/api/1.1",
     ...settings
 })
 
