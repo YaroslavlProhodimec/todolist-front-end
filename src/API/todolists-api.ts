@@ -5,7 +5,7 @@ import {RequestStatusType} from "../App/App-reducer";
 const settings = {
     withCredentials: true,
     headers: {
-        "api-key": "a4e56366-fe3d-4e5d-8c7b-0714b5ffdb22"
+        "api-key": "ae2944f8-0caf-4e29-9c68-a82fe26271ce"
     }
 }
 const axiosInstance = axios.create({
